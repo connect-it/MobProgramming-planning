@@ -1,5 +1,5 @@
 # MobProgramming Planung
 
-* [http://connect-it.hn/event/mob-programming/](Event-Seite) bei connect.IT
-* [https://github.com/connect-it/MobProgramming-planning/wiki](Wiki) für die
+* [Event-Seite](http://connect-it.hn/event/mob-programming/) bei connect.IT
+* [Wiki](https://github.com/connect-it/MobProgramming-planning/wiki) für die
   weitere Diskussion.
